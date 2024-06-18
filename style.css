@@ -6,7 +6,7 @@ body {
     text-align: justify; /* Texto justificado */
 }
 h1 {
-    color: darkblue;
+    color: PaleVioletPink;
     text-align: center; /* Centralizar o título principal */
 }
 h2 {
@@ -53,14 +53,4 @@ nav ul li a:hover {
   align-items: flex-start; /* Alinha os itens no topo */
   width: 80%; /* Largura do container */
   margin: 0 auto; /* Centraliza o container */
-}
-
-.foto-perfil {
-  width: 30%; /* Largura da imagem */
-  margin-right: 20px; /* Espaçamento entre a imagem e o texto */
-  object-fit: cover; /* Garante que a imagem se ajuste bem */
-}
-
-.conteudo {
-  flex: 1; /* Faz o conteúdo ocupar o espaço restante */
 }
